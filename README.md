@@ -1,11 +1,10 @@
 # AvisynthScript-EraseAny
 Avisynth Auto Scripts for Erasing any transparent logo.
 
-+----------------+
-|  REQUIREMENTS  |
-+----------------+
--> LogoNR
-	-> KNLMeansCL
-	-> delogo
-	-> mt_masktools-26
- 	-> RemoveGrain
+
+[REQUIREMENTS]
+
+KNLMeansCL.dll
+delogo.dll
+mt_masktools-26.dll
+RemoveGrain.dll
